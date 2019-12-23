@@ -1,3 +1,3 @@
 import React from "react"
 
-export default () => <div>My template from scratch</div>
+export default () => <div>My template asdasdfrom scratch</div>
